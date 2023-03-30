@@ -1,0 +1,6 @@
+{
+  "parent": "kubejs:block/plus_all",
+  "textures": {
+    "all": "tconstruct:block/smeltery/seared/fancy_bricks"
+  }
+}

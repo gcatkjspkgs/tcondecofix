@@ -1,0 +1,7 @@
+{
+  "parent": "kubejs:block/plus_column",
+  "textures": {
+    "end": "tconstruct:block/foundry/scorched/stone_top",
+    "side": "tconstruct:block/foundry/scorched/stone_side"
+  }
+}
