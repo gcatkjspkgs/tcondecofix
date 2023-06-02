@@ -3,7 +3,7 @@
     "description": "A bunch of scripts and item models thrown together, adding decoration-safe versions of Tinkers Construct seared and scorched blocks.",
     
     "versions": [6],
-    "modloaders": ["forge", "fabric"],
-    "dependencies": [],
+    "modloaders": ["forge"],
+    "dependencies": ["mod:tconstruct"],
     "incompatibilities": []
 }
